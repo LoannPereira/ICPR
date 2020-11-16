@@ -1,0 +1,8 @@
+prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_gazebo
+
+Name: husky_gazebo
+Description: Description of husky_gazebo
+Version: 0.3.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf/lib/python2.7/dist-packages/pysdf/__init__.py

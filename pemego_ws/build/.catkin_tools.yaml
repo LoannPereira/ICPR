@@ -1,0 +1,6 @@
+devel_space: /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel
+install: false
+install_space: /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install
+profile: default
+source_space: /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src
+workspace: /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws
