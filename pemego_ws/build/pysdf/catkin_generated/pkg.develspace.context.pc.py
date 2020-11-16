@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "pysdf"
-PROJECT_SPACE_DIR = "/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf"
+PROJECT_SPACE_DIR = "/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/pysdf"
 PROJECT_VERSION = "0.0.0"

@@ -1,4 +1,4 @@
-prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/multikey_teleop
+prefix=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/multikey_teleop
 
 Name: multikey_teleop
 Description: Description of multikey_teleop

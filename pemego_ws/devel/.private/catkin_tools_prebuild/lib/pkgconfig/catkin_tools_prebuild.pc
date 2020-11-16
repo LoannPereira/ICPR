@@ -1,4 +1,4 @@
-prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/catkin_tools_prebuild
+prefix=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/catkin_tools_prebuild
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

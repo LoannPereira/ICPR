@@ -1,4 +1,4 @@
-prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install
+prefix=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install
 
 Name: husky_bringup
 Description: Description of husky_bringup

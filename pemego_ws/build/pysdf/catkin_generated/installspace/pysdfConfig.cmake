@@ -67,14 +67,14 @@ set(pysdf_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(pysdf_SOURCE_PREFIX /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/pysdf)
-  set(pysdf_DEVEL_PREFIX /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf)
+  set(pysdf_SOURCE_PREFIX /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/pysdf)
+  set(pysdf_DEVEL_PREFIX /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/pysdf)
   set(pysdf_INSTALL_PREFIX "")
   set(pysdf_PREFIX ${pysdf_DEVEL_PREFIX})
 else()
   set(pysdf_SOURCE_PREFIX "")
   set(pysdf_DEVEL_PREFIX "")
-  set(pysdf_INSTALL_PREFIX /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install)
+  set(pysdf_INSTALL_PREFIX /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install)
   set(pysdf_PREFIX ${pysdf_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install/lib;/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/lib;/opt/ros/melodic/lib)
+    foreach(path /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install/lib;/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/lib;/opt/ros/melodic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include/velocity_controllers/joint_group_velocity_controller.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include/velocity_controllers/joint_group_velocity_controller.h
 forward_command_controller/forward_joint_group_command_controller.h
 -
-hardware_interface/joint_command_interface.h
--
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include/velocity_controllers/joint_position_controller.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include/velocity_controllers/joint_position_controller.h
 control_msgs/JointControllerState.h
 -
 control_msgs/JointControllerState.h
@@ -36,19 +34,17 @@ std_msgs/Float64.h
 urdf/model.h
 -
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include/velocity_controllers/joint_velocity_controller.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include/velocity_controllers/joint_velocity_controller.h
 forward_command_controller/forward_command_controller.h
 -
-hardware_interface/joint_command_interface.h
--
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/src/joint_group_velocity_controller.cpp
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/src/joint_group_velocity_controller.cpp
 velocity_controllers/joint_group_velocity_controller.h
 -
 pluginlib/class_list_macros.hpp
 -
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/src/joint_position_controller.cpp
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/src/joint_position_controller.cpp
 velocity_controllers/joint_position_controller.h
 -
 angles/angles.h
@@ -56,7 +52,7 @@ angles/angles.h
 pluginlib/class_list_macros.hpp
 -
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/src/joint_velocity_controller.cpp
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/src/joint_velocity_controller.cpp
 velocity_controllers/joint_velocity_controller.h
 -
 pluginlib/class_list_macros.hpp

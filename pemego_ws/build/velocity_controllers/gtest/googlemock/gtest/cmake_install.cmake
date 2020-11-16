@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

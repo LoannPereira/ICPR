@@ -1,4 +1,4 @@
-prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/robot_simu
+prefix=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/robot_simu
 
 Name: robot_simu
 Description: Description of robot_simu

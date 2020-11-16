@@ -8,8 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/horizon_legacy.dir/src/horizon_legacy/Transport.cpp.o"
   "CMakeFiles/horizon_legacy.dir/src/horizon_legacy/Number.cpp.o"
   "CMakeFiles/horizon_legacy.dir/src/horizon_legacy/linux_serial.cpp.o"
-  "/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/libhorizon_legacy.pdb"
-  "/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/libhorizon_legacy.so"
+  "/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/libhorizon_legacy.pdb"
+  "/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/libhorizon_legacy.so"
 )
 
 # Per-language clean rules from dependency scanning.

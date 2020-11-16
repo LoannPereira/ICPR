@@ -1,8 +1,8 @@
-prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_msgs
+prefix=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_msgs
 
 Name: husky_msgs
 Description: Description of husky_msgs
 Version: 0.3.4
-Cflags: -I/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_msgs/include
+Cflags: -I/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_msgs/include
 Libs: -L${prefix}/lib 
 Requires: std_msgs message_runtime

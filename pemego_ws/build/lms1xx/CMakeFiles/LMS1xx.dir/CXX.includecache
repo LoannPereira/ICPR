@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/LMS1xx.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/LMS1xx.h
 LMS1xx/lms_buffer.h
 -
 LMS1xx/lms_structs.h
@@ -16,9 +16,9 @@ string
 stdint.h
 -
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/lms_buffer.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/lms_buffer.h
 console_bridge/console.h
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/console_bridge/console.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/console_bridge/console.h
 stdint.h
 -
 string.h
@@ -26,11 +26,11 @@ string.h
 unistd.h
 -
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/lms_structs.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/include/LMS1xx/lms_structs.h
 stdint.h
 -
 
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/src/LMS1xx.cpp
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/src/LMS1xx.cpp
 sys/time.h
 -
 sys/types.h
@@ -54,7 +54,7 @@ fcntl.h
 unistd.h
 -
 LMS1xx/LMS1xx.h
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/src/LMS1xx/LMS1xx.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/src/LMS1xx/LMS1xx.h
 console_bridge/console.h
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/LMS1xx/src/console_bridge/console.h
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/LMS1xx/src/console_bridge/console.h
 

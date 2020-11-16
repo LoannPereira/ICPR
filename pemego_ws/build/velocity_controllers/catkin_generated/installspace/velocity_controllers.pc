@@ -1,8 +1,8 @@
-prefix=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install
+prefix=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install
 
 Name: velocity_controllers
 Description: Description of velocity_controllers
-Version: 0.18.0
+Version: 0.15.0
 Cflags: -I${prefix}/include
 Libs: -L${prefix}/lib -lvelocity_controllers
-Requires: control_msgs control_toolbox controller_interface forward_command_controller hardware_interface realtime_tools std_msgs urdf
+Requires: angles control_msgs control_toolbox controller_interface forward_command_controller realtime_tools urdf

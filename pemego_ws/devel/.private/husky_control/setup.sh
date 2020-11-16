@@ -11,7 +11,7 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_control}
+: ${_CATKIN_SETUP_DIR:=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_control}
 _SETUP_UTIL="$_CATKIN_SETUP_DIR/_setup_util.py"
 unset _CATKIN_SETUP_DIR
 

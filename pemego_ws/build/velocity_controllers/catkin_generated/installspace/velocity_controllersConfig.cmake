@@ -67,14 +67,14 @@ set(velocity_controllers_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(velocity_controllers_SOURCE_PREFIX /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers)
-  set(velocity_controllers_DEVEL_PREFIX /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/velocity_controllers)
+  set(velocity_controllers_SOURCE_PREFIX /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers)
+  set(velocity_controllers_DEVEL_PREFIX /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/velocity_controllers)
   set(velocity_controllers_INSTALL_PREFIX "")
   set(velocity_controllers_PREFIX ${velocity_controllers_DEVEL_PREFIX})
 else()
   set(velocity_controllers_SOURCE_PREFIX "")
   set(velocity_controllers_DEVEL_PREFIX "")
-  set(velocity_controllers_INSTALL_PREFIX /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install)
+  set(velocity_controllers_INSTALL_PREFIX /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install)
   set(velocity_controllers_PREFIX ${velocity_controllers_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/install/lib;/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/lib;/opt/ros/melodic/lib)
+    foreach(path /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/install/lib;/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/lib;/opt/ros/melodic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
@@ -185,7 +185,7 @@ foreach(t ${velocity_controllers_EXPORTED_TARGETS})
   endif()
 endforeach()
 
-set(depends "control_msgs;control_toolbox;controller_interface;forward_command_controller;hardware_interface;realtime_tools;std_msgs;urdf")
+set(depends "angles;control_msgs;control_toolbox;controller_interface;forward_command_controller;realtime_tools;urdf")
 foreach(depend ${depends})
   string(REPLACE " " ";" depend_list ${depend})
   # the package name of the dependency must be kept in a unique variable so that it is not overwritten in recursive calls

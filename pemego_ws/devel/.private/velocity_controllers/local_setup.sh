@@ -3,7 +3,7 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/velocity_controllers}
+: ${_CATKIN_SETUP_DIR:=/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/velocity_controllers}
 CATKIN_SETUP_UTIL_ARGS="--extend --local"
 . "$_CATKIN_SETUP_DIR/setup.sh"
 unset CATKIN_SETUP_UTIL_ARGS

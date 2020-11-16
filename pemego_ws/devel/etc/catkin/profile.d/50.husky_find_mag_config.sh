@@ -1,1 +1,1 @@
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_bringup/etc/catkin/profile.d/50.husky_find_mag_config.sh
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_bringup/etc/catkin/profile.d/50.husky_find_mag_config.sh

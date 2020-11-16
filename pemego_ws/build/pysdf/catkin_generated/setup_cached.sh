@@ -7,9 +7,9 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf/lib:$LD_LIBRARY_PATH"
-export PWD='/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/build/pysdf'
-export PYTHONPATH="/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf/lib/python2.7/dist-packages:$PYTHONPATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/pysdf/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/pysdf:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/pysdf:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/pysdf/lib:$LD_LIBRARY_PATH"
+export PWD='/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/build/pysdf'
+export PYTHONPATH="/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/pysdf/lib/python2.7/dist-packages:/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/lib/python2.7/dist-packages:$PYTHONPATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/pysdf/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/pysdf:$ROS_PACKAGE_PATH"

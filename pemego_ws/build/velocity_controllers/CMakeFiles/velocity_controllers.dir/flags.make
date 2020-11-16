@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC   -std=gnu++14
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"velocity_controllers\" -Dvelocity_controllers_EXPORTS
 
-CXX_INCLUDES = -I/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/src/ros_controllers/velocity_controllers/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

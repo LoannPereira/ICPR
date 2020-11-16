@@ -1,3 +1,3 @@
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/share/husky_viz/cmake/husky_vizConfig.cmake
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/share/husky_viz/cmake/husky_vizConfig-version.cmake
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/lib/pkgconfig/husky_viz.pc
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/share/husky_viz/cmake/husky_vizConfig-version.cmake
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/share/husky_viz/cmake/husky_vizConfig.cmake
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/lib/pkgconfig/husky_viz.pc

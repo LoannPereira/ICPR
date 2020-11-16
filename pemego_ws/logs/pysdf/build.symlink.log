@@ -1,4 +1,4 @@
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/share/pysdf/cmake/pysdfConfig.cmake
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/share/pysdf/cmake/pysdfConfig-version.cmake
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/lib/python2.7/dist-packages/pysdf/__init__.py
-Symlinking /home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/lib/pkgconfig/pysdf.pc
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/share/pysdf/cmake/pysdfConfig.cmake
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/share/pysdf/cmake/pysdfConfig-version.cmake
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/lib/pkgconfig/pysdf.pc
+Symlinking /home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/lib/python2.7/dist-packages/pysdf/__init__.py

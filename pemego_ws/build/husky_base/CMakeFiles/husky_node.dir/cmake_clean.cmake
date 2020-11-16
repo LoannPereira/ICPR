@@ -3,8 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/husky_node.dir/src/husky_hardware.cpp.o"
   "CMakeFiles/husky_node.dir/src/husky_diagnostics.cpp.o"
   "CMakeFiles/husky_node.dir/src/horizon_legacy_wrapper.cpp.o"
-  "/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/husky_base/husky_node.pdb"
-  "/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/husky_base/husky_node"
+  "/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/husky_base/husky_node.pdb"
+  "/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_base/lib/husky_base/husky_node"
 )
 
 # Per-language clean rules from dependency scanning.

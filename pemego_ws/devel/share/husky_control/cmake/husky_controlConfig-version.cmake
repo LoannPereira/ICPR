@@ -1,1 +1,1 @@
-/home/loann/Bureau/ICPR/TP4/ICPR/pemego_ws/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake
+/home/nico/ros/ICPR_TP4/ICPR/pemego_ws/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake
